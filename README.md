@@ -1,5 +1,5 @@
 # OurPlate_PHP
-OurPlate 프로젝트 PHP 버전
+OurPlate 프로젝트 PHP 버전 <br></br>
 ![image](https://user-images.githubusercontent.com/88018467/210148729-340a330f-15f8-4db2-844b-6a4eae7afba5.png)
 
 
